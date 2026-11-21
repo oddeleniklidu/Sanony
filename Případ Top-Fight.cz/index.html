@@ -1,0 +1,5 @@
+---
+title: "Případ Top-Fight.cz"
+---
+{% capture case_readme %}{% include_relative README.md %}{% endcapture %}
+{{ case_readme | replace: 'README.md', 'index.html' | markdownify }}

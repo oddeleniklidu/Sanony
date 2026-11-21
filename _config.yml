@@ -1,0 +1,14 @@
+title: Šanony
+description: Přehled případů a podkladů Oddělení klidu.
+lang: cs
+url: "https://oddeleniklidu.github.io"
+baseurl: "/Sanony"
+repository_url: "https://github.com/oddeleniklidu/Sanony"
+markdown: kramdown
+exclude:
+  - README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

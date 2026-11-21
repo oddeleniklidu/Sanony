@@ -12,3 +12,9 @@ Přehled případů Oddělení klidu.
 - [Případ Veronika Hyláková](P%C5%99%C3%ADpad%20Veronika%20Hyl%C3%A1kov%C3%A1/README.md)
 - [Případ Red Face](P%C5%99%C3%ADpad%20Red%20Face/README.md)
 - [Případ VladěnaPLUS](P%C5%99%C3%ADpad%20Vlad%C4%9BnaPLUS/README.md)
+
+## Web
+
+[Otevřít web Šanony](https://oddeleniklidu.github.io/Sanony/)
+
+Web publikuje GitHub Pages z kořene větve `main`. Úvodní stránky případů načítají obsah příslušného `README.md`; úpravy podkladů se tedy projeví i na webu po novém sestavení.
