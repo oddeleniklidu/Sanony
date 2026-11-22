@@ -1,21 +1,73 @@
-# Případ Eshop vladenagang.cz
+# E-shop VladěnaGang: přísliby pomoci a provozní vazby
 
-Podklady k případu se připravují.
+**Šanon VI · Vydřin archiv Oddělení klidu**
 
-## O co jde
+**Stav:** Zpracované archivní podklady; úplný výpočet a tok příspěvků neověřen
 
-Tento šanon je vyhrazen pro podklady k případu. Popis zatím není zpracovaný.
+**Verze:** 1.0 · 22. listopadu 2026
 
-## Co jsme zjistili
+Jakou část nákupu e-shop sliboval věnovat na pomoc a kdo se podílel na jeho provozu? Porovnali jsme konkrétní archivní stránky. Rozdíl mezi částečným a celým příspěvkem není jen otázkou dvou dat: obě formulace jsou zachyceny současně na jedné stránce.
 
-V tomto šanonu zatím nejsou zveřejněná zjištění.
+## Část, nebo celá částka z prodeje?
 
-## Co ještě nevíme
+Archivní [stránka charitativní kategorie z 10. srpna 2026](https://web.archive.org/web/20260810082919/https://www.vladenagang.cz/kup-si-radost-posli-dobro/) obsahuje dvě formulace:
 
-Dosud tu není uvedený seznam otázek k ověření.
+| Místo v popisu kategorie | Krátký výpis |
+| --- | --- |
+| Úvodní popis příspěvku | „ze kterých část putuje na dobrou věc“ |
+| Následující vysvětlení podpory | „celá částka z prodeje“ |
+
+**Interpretace:** Rozdílná vymezení mohou zákazníkovi znesnadnit určení, jaký příspěvek nákupem poskytuje. Nejde o doloženou změnu slibu v čase; oba texty jsou v témže zachycení. Stránka se vztahuje ke konkrétní kategorii, která tehdy zobrazovala dvě klíčenky, nikoli automaticky ke všem tržbám e-shopu. Detailní pravidla jednotlivých produktů jsme tímto neověřili.
+
+Nález sám neukazuje, kolik kusů se prodalo a jaké částky skutečně obdrželi příjemci. Nevydáváme ho za důkaz zneužití peněz nebo rozhodnutí o porušení zákona.
+
+## Kdo byl uveden při provozu e-shopu
+
+[Podmínky ochrany osobních údajů zachycené 25. září 2026](https://web.archive.org/web/20260925105200/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/) uvádějí **Petra Baštu, IČO 74284215**. Jmenují také **Veroniku Hylákovou** při externím balení a odesílání objednávek a popisují práci podle Baštových pokynů.
+
+Jde o konkrétní provozní roli uváděnou webem. Samotný text neprokazuje správu bankovního účtu, vlastnictví e-shopu ani skutečný rozsah prováděné práce. V [zachycení stejné stránky z 10. srpna](https://web.archive.org/web/20260810082919/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/) tato pasáž chybí. Přesný den jejího vložení ani začátku spolupráce neznáme.
+
+Související [Šanon VIII](../P%C5%99%C3%ADpad%20Veronika%20Hyl%C3%A1kov%C3%A1/index.html) nově uvádí tento přímý archivní zdroj. Rejstříkový záznam stejnojmenné osoby zůstává samostatnou, nepropojenou stopou.
+
+## Co máme ze dvou dat a co je rekonstrukce
+
+Starší místní balíček obsahuje archivní podklady i upravené statické prezentace. Každé stránce proto přiřazujeme její skutečné archivní datum:
+
+| Podoba nebo datum | Povaha podkladu |
+| --- | --- |
+| 10. srpna 2026 | Přímá archivní zachycení homepage, charitativní kategorie a dalších stránek |
+| 6. září 2026 | Dochované archivní zachycení homepage |
+| 18. září 2026 | Označená místní rekonstrukce; není přímým snapshotem z tohoto dne |
+| 25. září 2026 | Tehdejší místní kopie a nově ověřená archivní zachycení včetně podmínek soukromí |
+
+Ve [srpnové homepage](https://web.archive.org/web/20260810082905/https://www.vladenagang.cz/) byla prezentována nabídka a navigace e-shopu. [Zářijová homepage](https://web.archive.org/web/20260925105144/https://www.vladenagang.cz/) je výrazně prázdnější, zatímco některé informační stránky zůstaly zachovány. To samo neurčuje příčinu omezení ani právní či faktický konec podnikání. Chybějící obsahový snímek dřívějšího období není důkazem, že web tehdy neexistoval.
+
+## Co o podpoře zaznělo ve videích
+
+- VLADĚNAplus podle dochovaných podkladů uvádí **100 % výtěžku vybraných produktů** a následně popisuje přidávání prostředků z dalších zdrojů. [Od 9:13](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=553), [od 9:30](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=570).
+- Idealista předkládá výřezy plateb a uvádí **nejméně 75 000 Kč za první pololetí** plus materiální pomoc. [Výřezy od 3:43](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223), [částka od 5:14](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=314).
+
+Jde o veřejná vyjádření, nikoli zde provedenou úplnou účetní kontrolu. Tržby, výtěžek a zisk nezaměňujeme. Z jednotlivé platby ani její poznámky nelze samostatně určit původ všech peněz nebo podíl darů na celkovém prodeji. Procentní údaj o vybraných výrobcích nevyčísluje automaticky celý obchod.
+
+## Co zůstává otevřené
+
+- Jak byl příspěvek u jednotlivých výrobků přesně vypočten a vymezen zákazníkům?
+- Upřesňovaly produktové detaily nejednotné znění kategorie?
+- Jak se za stejné období oddělovaly příjmy z prodeje, náklady a další dary?
+- Které platby odpovídaly kterým prodejům a příjemcům?
+
+V dosud prověřených podkladech jsme nenašli úplný veřejný přehled umožňující tyto kroky zopakovat. Netvrdíme tím, že neexistuje nebo že žádná pomoc neproběhla. Pro tuto edici nemáme doložené konkrétní vyjádření provozovatele k souběžným formulacím kategorie. Bez evidence oslovení nepíšeme, že odmítl odpovědět.
 
 ## Podívejte se sami
 
-Zdroje a dokumenty zatím nejsou připojené.
+- [Zdroje a význam podkladů](ZDROJE.md)
+- [Metodika, ověření archivních otisků a omezení](METODIKA.md)
+- [Časová osa](CASOVA-OSA.md)
+- [Historie oprav](OPRAVY.md)
+- [Výpis archivních záznamů a otisků](prilohy/archivni-zaznamy.json)
+- [Přehled porovnání](prilohy/srovnani.csv)
+- [Kontrolní součty edice](prilohy/SHA256SUMS.txt)
+
+Podnět nebo opravu lze [přidat v repozitáři](https://github.com/oddeleniklidu/Sanony/issues). Nepřipojujte soukromé kontakty, celé bankovní výpisy ani údaje zákazníků. Opravy evidujeme s datem a důvodem.
 
 [Zpět na přehled případů](../README.md)

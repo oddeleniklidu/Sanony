@@ -1,6 +1,6 @@
 # Metodika a hranice zjištění
 
-**Šanon VIII · Verze 1.1 · 22. listopadu 2026**
+**Šanon VIII · Verze 1.2 · 22. listopadu 2026**
 
 ## Rozsah a identifikace
 

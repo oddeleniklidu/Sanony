@@ -1,0 +1,6 @@
+---
+title: "Šanon VI · Zdroje"
+---
+<a class="back-link" href="index.html">← Šanon VI</a>
+{% capture case_document %}{% include_relative ZDROJE.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}

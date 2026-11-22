@@ -4,7 +4,7 @@
 
 **Stav:** Zpracované podklady; propojení jednotlivých rolí není ve všech bodech ověřené
 
-**Verze:** 1.1 · 22. listopadu 2026
+**Verze:** 1.2 · 22. listopadu 2026
 
 Jméno Veronika Hyláková se objevuje u knihy, v historickém autorském údaji Top-Fight i u účtu, který ve skupině VLADĚNAplus propaguje články. V obsahu kanálu zároveň vystupuje spolupracovnice označovaná jako Veronika. Co o těchto rolích dokládají zdroje a kde zatím chybí přímé propojení?
 
@@ -48,6 +48,12 @@ Dochované rešerše lokalizují několik konkrétních pasáží:
 | [17. srpna, od 32:37](https://www.youtube.com/watch?v=RxRDSZaeLiQ&t=1957) | Otázka na „Veru“ k vydání článku, později odpověď účtu @VeruleSKarlem | Samotný výřez neuvádí celé jméno držitelky účtu |
 
 Tyto pasáže podporují popis obsahové a organizační spolupracovnice označované jako Veronika. Její přiřazení ke konkrétní osobě nelze založit jen na křestním jménu. V této edici uvádíme rešeršní shrnutí, nikoli nově ověřené doslovné přepisy celých záznamů. [Lokátory a stav ověření](prilohy/video-lokatory.csv).
+
+## Role při balení a expedici uvedená e-shopem
+
+Nově ověřené [archivní podmínky soukromí z 25. září 2026](https://web.archive.org/web/20260925105200/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/) jmenují Veroniku Hylákovou u balení a odesílání objednávek a popisují práci podle pokynů Petra Bašty. Ve [srpnové verzi](https://web.archive.org/web/20260810082919/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/) tato pasáž chybí.
+
+Tím je doložena konkrétní provozní vazba uváděná webem. Neověřili jsme skutečnou smlouvu, správu bankovního účtu ani shodu s IČO 00967637. Přesné datum změny neznáme. [Srovnání a ověřené archivní otisky v Šanonu VI](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/index.html).
 
 ## Lze veřejně zkontrolovat výpočet a tok darovaných peněz?
 

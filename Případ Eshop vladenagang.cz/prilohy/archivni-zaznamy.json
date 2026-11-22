@@ -1,0 +1,80 @@
+{
+  "edition_date": "2026-11-22",
+  "kind": "Nově sestavený výpis původu a otisků; neobsahuje úplné zdrojové HTML",
+  "records": [
+    {
+      "id": "charitativni-kategorie-20260810",
+      "source_url": "https://www.vladenagang.cz/kup-si-radost-posli-dobro/",
+      "archive_url": "https://web.archive.org/web/20260810082919/https://www.vladenagang.cz/kup-si-radost-posli-dobro/",
+      "raw_archive_url": "https://web.archive.org/web/20260810082919id_/https://www.vladenagang.cz/kup-si-radost-posli-dobro/",
+      "resolved_archive_url": "https://web.archive.org/web/20260810082919id_/https://www.vladenagang.cz/kup-si-radost-posli-dobro/",
+      "capture_utc": "2026-08-10T08:29:19Z",
+      "http_status": 200,
+      "title": "Společně pomáháme - kup si radost - Vladěnagang",
+      "response_encoding": "gzip",
+      "response_bytes": 18111,
+      "response_sha256": "cea00d08468eebd1cbb6cc5345d860d9d00c3abbab166b5a2e48e2fedf0720dc",
+      "cdx_sha1_base32": "PC54PGSYITQN6M7HD3FC6UYOJH72MS4Y",
+      "response_sha1_base32": "PC54PGSYITQN6M7HD3FC6UYOJH72MS4Y",
+      "response_digest_matches_cdx": true,
+      "decoded_html_sha256": "c78e2158a5f368dbd59e357962b7ac9aa83a2675d9ce3c2e82867cb6c5a4799d"
+    },
+    {
+      "id": "soukromi-20260810",
+      "source_url": "https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "archive_url": "https://web.archive.org/web/20260810082919/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "raw_archive_url": "https://web.archive.org/web/20260810082919id_/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "resolved_archive_url": "https://web.archive.org/web/20260810082919id_/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "capture_utc": "2026-08-10T08:29:19Z",
+      "http_status": 200,
+      "title": "Podmínky ochrany osobních údajů - Vladěnagang",
+      "response_encoding": "gzip",
+      "response_bytes": 17889,
+      "response_sha256": "43a7771282340a7a82e7a5fc79a22a8bb3194d30b7943e68d0c986d74ab9c0a0",
+      "cdx_sha1_base32": "B7IXNRBDVAVBYL42NJOJR5RKJ2WCJNK7",
+      "response_sha1_base32": "B7IXNRBDVAVBYL42NJOJR5RKJ2WCJNK7",
+      "response_digest_matches_cdx": true,
+      "decoded_html_sha256": "904367d8e173d3529a8d6d9ad59407985d80a2060e9b2d3e203761f2c0f0cd48"
+    },
+    {
+      "id": "soukromi-20260925",
+      "source_url": "https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "archive_url": "https://web.archive.org/web/20260925105200/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "raw_archive_url": "https://web.archive.org/web/20260925105200id_/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "resolved_archive_url": "https://web.archive.org/web/20260925105200id_/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/",
+      "capture_utc": "2026-09-25T10:52:00Z",
+      "http_status": 200,
+      "title": "Podmínky ochrany osobních údajů - Vladěnagang",
+      "response_encoding": "gzip",
+      "response_bytes": 17160,
+      "response_sha256": "77443932043718e1cfccac65350621573569b0e33701fded01f4adb76be81a32",
+      "cdx_sha1_base32": "BMPLEABHPA6FTY7MAWQTJKTTVDCN6RID",
+      "response_sha1_base32": "BMPLEABHPA6FTY7MAWQTJKTTVDCN6RID",
+      "response_digest_matches_cdx": true,
+      "decoded_html_sha256": "011d50db16925673d0549607c9acf2a6b76a433fb5da3770de874e7df740b187"
+    },
+    {
+      "id": "homepage-20260925",
+      "source_url": "https://www.vladenagang.cz/",
+      "archive_url": "https://web.archive.org/web/20260925105144/https://www.vladenagang.cz/",
+      "raw_archive_url": "https://web.archive.org/web/20260925105144id_/https://www.vladenagang.cz/",
+      "resolved_archive_url": "https://web.archive.org/web/20260925105144id_/https://www.vladenagang.cz/",
+      "capture_utc": "2026-09-25T10:51:44Z",
+      "http_status": 200,
+      "title": "Homepage - Vladěnagang",
+      "response_encoding": "identity",
+      "response_bytes": 36762,
+      "response_sha256": "83a5b1b1e75c2c47eb0b32250961ad6d21299254cf4a0cf813c3bfe6d13b0687",
+      "cdx_sha1_base32": "TDCF2CISNELZHLJQHTHGSECAXVKW2VHH",
+      "response_sha1_base32": "TDCF2CISNELZHLJQHTHGSECAXVKW2VHH",
+      "response_digest_matches_cdx": true,
+      "decoded_html_sha256": "83a5b1b1e75c2c47eb0b32250961ad6d21299254cf4a0cf813c3bfe6d13b0687"
+    }
+  ],
+  "limits": [
+    "Zachycení nedatuje první zveřejnění ani změnu textu.",
+    "Shoda s CDX potvrzuje shodu odpovědi s indexovaným zachycením, nikoli pravdivost obsahu.",
+    "U gzip odpovědi se CDX digest porovnává s původními komprimovanými bajty, nikoli s dekomprimovaným HTML.",
+    "Provozní role je označení zveřejněné webem; nejde o ověření finančních oprávnění."
+  ]
+}

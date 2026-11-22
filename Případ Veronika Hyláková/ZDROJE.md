@@ -1,6 +1,6 @@
 # Zdroje a jejich význam
 
-**Šanon VIII · Verze 1.1 · 22. listopadu 2026**
+**Šanon VIII · Verze 1.2 · 22. listopadu 2026**
 
 | Zdroj | Použití | Omezení |
 | --- | --- | --- |
@@ -14,6 +14,7 @@
 | [Stream 17. srpna od 32:37](https://www.youtube.com/watch?v=RxRDSZaeLiQ&t=1957) | Oslovení Veru a následná reakce účtu v chatu | Neprokazuje držitelku účtu ani autorství článku |
 | [VLADĚNAplus, od 9:13](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=553), [od 9:30](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=570) | Vyjádření o 100 % výtěžku vybraných produktů a doplňování darů z dalších zdrojů | Není údajem o celkových tržbách ani úplným rozpisem zdrojů |
 | [Idealista, od 3:43](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223), [od 5:14](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=314) | Výřezy plateb a tvrzení o nejméně 75 000 Kč plus materiální pomoci za první pololetí | Nezpřístupňuje úplné účetní podklady ani neověřuje roli Hylákové |
+| [Podmínky soukromí, 25. 9.](https://web.archive.org/web/20260925105200/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/), [10. 8.](https://web.archive.org/web/20260810082919/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/) | Provozní role zveřejněná e-shopem a porovnání verzí | Neurčuje správu financí ani propojení s IČO |
 | [ARES — souhrnný výpis IČO 00967637](https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/00967637) | Jméno, obec sídla a datum evidovaného vzniku subjektu | Nepropojuje subjekt s autorkou knihy |
 | [ARES — živnostenská evidence IČO 00967637](https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-rzp/00967637) | Oprávnění a obory od 24. 10. 2026 | Nedokládá skutečný provoz e-shopu nebo práva k ilustraci |
 
