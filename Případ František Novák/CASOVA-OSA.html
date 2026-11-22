@@ -1,0 +1,6 @@
+---
+title: "Šanon I · CASOVA-OSA"
+---
+<a class="back-link" href="index.html">← Šanon I</a>
+{% capture case_document %}{% include_relative CASOVA-OSA.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}
