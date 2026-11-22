@@ -1,0 +1,6 @@
+---
+title: "Šanon IV · Metodika"
+---
+<a class="back-link" href="index.html">← Šanon IV</a>
+{% capture case_document %}{% include_relative METODIKA.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}
