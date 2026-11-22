@@ -38,6 +38,8 @@ Metadata může redakce změnit a video může být vloženo dodatečně. U dubn
 
 `SHA256SUMS.txt` pokrývá veřejné textové a datové přílohy včetně hlavního textu. Manifest nehashuje sám sebe. Hash dokládá shodu bajtů této edice, nikoli pravdivost tvrzení nebo nezávislé časové razítko.
 
+Kontrolní součty se vztahují ke zdrojovým souborům v repozitáři GitHub. GitHub Pages z HTML šablon sestavuje výsledné stránky; jejich bajty se od zdrojových šablon liší. Pro kontrolu šablon a Markdownu použijte soubory stažené z repozitáře, nikoli HTML uložené z prohlížeče. Datové přílohy se při sestavení nepřevádějí.
+
 ## Vyjádření, soukromí a licence
 
 Video pasáže shrnujeme vlastními slovy a odkazujeme s časem. Pracovní přepisy a automatické titulky jsou lokátorem; pro doslovnou citaci je rozhodující původní zvuk. Balíček neobsahuje kopii videa.
