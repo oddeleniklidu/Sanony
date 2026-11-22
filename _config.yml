@@ -13,6 +13,9 @@ exclude:
   - "Případ František Novák/ZDROJE.md"
   - "Případ František Novák/CASOVA-OSA.md"
   - "Případ František Novák/OPRAVY.md"
+  - "Případ Top-Fight.cz/METODIKA.md"
+  - "Případ Top-Fight.cz/ZDROJE.md"
+  - "Případ Top-Fight.cz/OPRAVY.md"
 defaults:
   - scope:
       path: ""
