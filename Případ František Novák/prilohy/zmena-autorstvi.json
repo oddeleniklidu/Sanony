@@ -1,0 +1,45 @@
+{
+  "edition_date": "2026-11-21",
+  "kind": "Newly prepared metadata extract, not original HTML or a historical screenshot",
+  "article_url": "https://www.top-fight.cz/navonena-bida-v-praxi-shopaholic-adel-nakupuje-fake-znacky-dluzi-fanouskum-a-chce-odepisovat-rohliky-z-dani/",
+  "historical": {
+    "archive_url": "https://web.archive.org/web/20260519163943id_/https://www.top-fight.cz/navonena-bida-v-praxi-shopaholic-adel-nakupuje-fake-znacky-dluzi-fanouskum-a-chce-odepisovat-rohliky-z-dani/",
+    "archive_capture_utc": "2026-05-19T16:39:43Z",
+    "stated_author_excerpt": "Veronika Hyláková, František Novák",
+    "extracted_jsonld": [
+      {
+        "names": [
+          "Veronika Hyláková, František Novák"
+        ],
+        "datePublished": "2026-04-15T21:20:00.000Z",
+        "dateModified": "2026-04-15T21:21:14.000Z"
+      }
+    ],
+    "source_html_sha256": "303961240f05a296a4f97a13dc655fc154ac8726faef4c0e6de03698482d8e9a",
+    "common_crawl_collection": "CC-MAIN-2026-21",
+    "common_crawl_digest": "SBYH44SIUET3BBILTPBDO27LOZPQKF6Q",
+    "warc_filename": "crawl-data/CC-MAIN-2026-21/segments/1778213376939.73/warc/CC-MAIN-20260519150324-20260519180324-00363.warc.gz",
+    "warc_offset": 867427346,
+    "warc_length": 43853,
+    "common_crawl_note": "WARC coordinates transcribed from the historical verification report; WARC is not included."
+  },
+  "later": {
+    "collection_period": "August 2026",
+    "stated_author_excerpt": "František Novák",
+    "extracted_jsonld": [
+      {
+        "names": [
+          "František Novák"
+        ],
+        "datePublished": "2026-04-15T21:20:00.000Z",
+        "dateModified": "2026-07-06T07:57:22.000Z"
+      }
+    ],
+    "source_html_sha256": "730d8b5a0f2a68428ff7c3e36c878e33425596637756f8908b626126c406d571"
+  },
+  "limits": [
+    "Public author-label change, not proof of physical authorship or civil identity.",
+    "dateModified does not identify when the author label changed.",
+    "Original HTML retained in research collection, not included in public package."
+  ]
+}

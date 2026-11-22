@@ -1,0 +1,24 @@
+{
+  "edition_date": "2026-11-21",
+  "original_collection_period": "August 2026",
+  "sources": [
+    {
+      "filename": "topfight_influencer_author_matches.csv",
+      "sha256": "70f3cb7de4b39452830f82066f8893c7f29a49d08255f1dd94534a92ee0920e8"
+    },
+    {
+      "filename": "article_video_timeline.csv",
+      "sha256": "5e4f1b85de56f063b172472410675af6b9866939405c26e2d60aceefca3df27e"
+    },
+    {
+      "filename": "youtube_video_channel_map.csv",
+      "sha256": "e10fd57905f65b3f09e21af890ae67ed27200814c53b1f842db7471beff7bdbf"
+    }
+  ],
+  "transformations_cs": [
+    "Výběr výslovně povolených sloupců; odstranění lokálních cest a pracovních polí.",
+    "Přepočet časů na UTC a Europe/Prague; původní časové hodnoty zachovány.",
+    "Rozdíl časů vypočten z původních hodnot, nikoli ze zaokrouhleného pole DeltaMinutes.",
+    "Přílohy nezaručují aktuální dostupnost videí ani neměnnost živých článků."
+  ]
+}
