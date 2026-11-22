@@ -1,0 +1,79 @@
+@font-face{font-family:Ubuntu;src:url('ubuntu-400.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:Ubuntu;src:url('ubuntu-700.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+:root{--pink:#f29bc3;--ink:#19172c;--muted:#f5f5f5;--max:1424px}
+*{box-sizing:border-box}
+html{font-family:Ubuntu,Arial,sans-serif;color:#171717;background:#fff;font-size:16px}
+body{margin:0;line-height:1.65}
+a{color:inherit;text-decoration:none}
+a:hover{text-decoration:underline}
+.container{width:min(var(--max),100%);margin-inline:auto}
+.skip-link{position:absolute;left:-9999px}
+.skip-link:focus{left:12px;top:12px;background:#fff;padding:8px;z-index:100}
+.topbar{height:30px;background:#f4f4f4;font-size:14px}
+.topbar-inner{height:100%;display:flex;justify-content:space-between;align-items:center;padding:0 24px}
+.topbar nav{display:flex;gap:44px}
+.topbar .account{gap:38px}
+.site-header{height:80px;background:var(--pink)}
+.header-inner{height:100%;padding:0 8px;display:grid;grid-template-columns:320px 1fr 260px;align-items:center;gap:16px}
+.brand{font-size:24px;letter-spacing:.1px}
+.search{width:min(420px,100%);justify-self:center;display:flex;align-items:center;gap:16px}
+.search input{font:inherit;background:transparent;border:0;outline:0;width:100%;color:#111}
+.search input::placeholder{color:#111;opacity:1}
+.search-icon{width:24px;height:24px;border:2px solid #171717;border-radius:50%;position:relative;flex:none}
+.search-icon:after{content:'';position:absolute;width:10px;height:2px;background:#171717;right:-7px;bottom:-4px;transform:rotate(48deg)}
+.cart{justify-self:end;display:flex;align-items:center;gap:14px;font-size:20px}
+.bag{width:20px;height:25px;border:1.8px solid #171717;border-radius:2px;position:relative}
+.bag:before{content:'';position:absolute;width:9px;height:7px;border:1.8px solid #171717;border-bottom:0;border-radius:8px 8px 0 0;left:3.5px;top:-7px}
+.page-shell{padding:0 24px}
+.breadcrumbs{height:67px;display:flex;align-items:center;gap:7px;color:#818181;font-size:14px;padding-left:120px}
+.breadcrumbs a{font-size:18px;color:#999}
+.content-grid{display:grid;grid-template-columns:33.333% 66.667%;min-height:628px}
+.home-grid{display:block;min-height:276px}
+.content{padding:0 0 0 10px;max-width:810px}
+.homepage .content{padding:0;max-width:none}
+.content-inner{padding:0 0 28px}
+.content h1{font-size:36px;line-height:1.2;margin:0 0 14px;font-weight:700}
+.content h2{font-size:24px}
+.content h3{font-size:20px}
+.content p{margin:0 0 24px}
+.content ul{padding-left:40px}
+.content a{text-decoration:underline}
+.content img{max-width:100%;height:auto}
+.content table{border-collapse:collapse;width:100%;overflow:auto;display:block}
+.content th,.content td{border:1px solid #d7d7d7;padding:8px 10px;vertical-align:top}
+.content input:not([type=checkbox]):not([type=radio]),.content textarea,.content select{display:block;width:100%;max-width:620px;border:1px solid #c9c9c9;padding:12px;margin:5px 0 16px;font:inherit;background:#fff}
+.content textarea{min-height:130px}
+.content button,.content input[type=submit]{border:0;background:#17172d;color:#fff;font-weight:700;padding:12px 24px;font:inherit}
+.captcha-placeholder{width:180px;padding:15px;border:1px dashed #888;color:#666;letter-spacing:1px;text-align:center;margin:8px 0}
+.footer{background:#f5f5f5}
+.footer-main{min-height:340px;padding:38px 24px 42px;display:flex;flex-direction:column;justify-content:space-between}
+.contact-box h3{font-size:17px;margin:0 0 30px}
+.contact-box>strong{display:none}
+.contact-box p{margin:12px 0}
+.contact-box p span{display:inline-flex;width:38px}
+.footer-links{align-self:center;display:flex;gap:14px;flex-wrap:wrap;justify-content:center}
+.footer-bottom{height:51px;background:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 24px;font-size:14px}
+.footer-bottom a{text-decoration:underline}
+.shoptet{display:flex;align-items:center;gap:8px;text-decoration:none!important}
+.shoptet i{width:17px;height:17px;background:linear-gradient(90deg,#00c7ca 0 47%,transparent 47% 53%,#ffd500 53%),linear-gradient(0deg,#00c7ca 0 47%,transparent 47% 53%,#80c900 53%);display:inline-block}
+.question-toast{position:fixed;left:20px;bottom:20px;background:#fff7e3;padding:8px 12px;box-shadow:0 3px 16px #0002;font-size:12px;z-index:30}
+.question-toast button{border:0;background:transparent;font-size:24px;line-height:14px;margin-left:8px;cursor:pointer}
+.cookie-panel{position:fixed;z-index:40;left:50%;bottom:0;transform:translateX(-50%);width:min(670px,calc(100% - 32px));background:#19172f;color:#fff;padding:24px;box-shadow:0 0 30px #0005;display:grid;grid-template-columns:1.15fr .85fr;gap:18px;font-weight:700}
+.cookie-panel[hidden]{display:none}
+.cookie-panel p{margin:0}
+.cookie-panel a{text-decoration:underline}
+.cookie-actions{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-content:start}
+.cookie-actions button{background:#fff;color:#1b1932;border:0;border-radius:3px;padding:14px 10px;font:700 16px Ubuntu;cursor:pointer}
+.cookie-actions button:first-child{grid-column:1/-1;background:transparent;color:#fff;border:2px solid #fff;justify-self:start;grid-row:2}
+.static-note{position:fixed;right:20px;bottom:20px;background:#19172f;color:#fff;padding:10px 14px;z-index:50;display:none}
+.static-note.show{display:block}
+@media(max-width:767px){
+  .topbar{height:auto}.topbar-inner{padding:7px 14px}.topbar nav:first-child{display:none}.topbar .account{margin-left:auto;gap:16px}
+  .site-header{height:auto}.header-inner{grid-template-columns:1fr auto;padding:14px;gap:18px}.brand{font-size:22px}
+  .search{order:3;grid-column:1/-1;width:100%;padding:8px 0}.cart span:last-child{display:none}
+  .page-shell{padding:0 16px}.breadcrumbs{height:52px;padding-left:0}.content-grid{display:block;min-height:300px}.sidebar{display:none}
+  .content{padding:0;max-width:none}.content h1{font-size:30px}.footer-main{min-height:300px;padding:28px 16px}
+  .footer-bottom{height:auto;min-height:70px;gap:15px;flex-wrap:wrap;padding:12px 16px}
+  .cookie-panel{grid-template-columns:1fr}.cookie-actions button:first-child{grid-row:auto}
+  .question-toast{left:10px;bottom:10px;max-width:calc(100% - 20px)}
+}

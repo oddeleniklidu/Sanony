@@ -4,7 +4,7 @@
 
 **Stav:** Zpracované archivní podklady; úplný výpočet a tok příspěvků neověřen
 
-**Verze:** 1.0 · 22. listopadu 2026
+**Verze:** 1.1 · 22. listopadu 2026
 
 Jakou část nákupu e-shop sliboval věnovat na pomoc a kdo se podílel na jeho provozu? Porovnali jsme konkrétní archivní stránky. Rozdíl mezi částečným a celým příspěvkem není jen otázkou dvou dat: obě formulace jsou zachyceny současně na jedné stránce.
 
@@ -41,6 +41,15 @@ Starší místní balíček obsahuje archivní podklady i upravené statické pr
 | 25. září 2026 | Tehdejší místní kopie a nově ověřená archivní zachycení včetně podmínek soukromí |
 
 Ve [srpnové homepage](https://web.archive.org/web/20260810082905/https://www.vladenagang.cz/) byla prezentována nabídka a navigace e-shopu. [Zářijová homepage](https://web.archive.org/web/20260925105144/https://www.vladenagang.cz/) je výrazně prázdnější, zatímco některé informační stránky zůstaly zachovány. To samo neurčuje příčinu omezení ani právní či faktický konec podnikání. Chybějící obsahový snímek dřívějšího období není důkazem, že web tehdy neexistoval.
+
+## Uložené podoby k prohlížení a stažení
+
+- [Otevřít rozcestník obou uložených podob](offline/index.html)
+- [Stáhnout obě podoby jako ZIP pro prohlížení bez připojení](prilohy/eshop-offline-dve-varianty.zip)
+
+Balíček obsahuje **rekonstrukci homepage z 10. srpna 2026** a **statickou kopii dvanácti stránek z 25. září 2026**. Nejde o dva úplné technické otisky obchodu. Srpnové odkazy do dalších sekcí vedou do internetového archivu; tyto sekce nejsou uloženy v balíčku. Zářijové informační stránky lze procházet místně. Po rozbalení otevřete hlavní soubor `index.html`.
+
+Kopie mají viditelné označení původu a data. Skripty byly odstraněny a formuláře i nákupní prvky jsou neaktivní. Obsahují historické veřejné texty a kontakty e-shopu; samotné kopie nepotvrzují současnou platnost uvedených údajů. Podrobnosti úprav uvádí rozcestník.
 
 ## Co o podpoře zaznělo ve videích
 
