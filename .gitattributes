@@ -2,3 +2,9 @@
 "Případ Top-Fight.cz/**" text eol=lf
 "Případ Veronika Hyláková/**" text eol=lf
 "Případ Eshop vladenagang.cz/**" text eol=lf
+
+# Offline attachments: preserve binary bytes after the case text rules.
+*.png binary
+*.jpg binary
+*.woff2 binary
+*.zip binary

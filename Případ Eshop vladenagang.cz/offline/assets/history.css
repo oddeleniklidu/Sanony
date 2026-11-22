@@ -1,0 +1,69 @@
+@font-face{font-family:Ubuntu;src:url('ubuntu-400.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:Ubuntu;src:url('ubuntu-700.woff2') format('woff2');font-weight:700;font-display:swap}
+:root{--pink:#f7a4c9;--hot:#ef68a9;--ink:#1a1937;--paper:#fff;--soft:#f5f5f5;--max:1424px}
+*{box-sizing:border-box}
+.sr-only{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+html{font-family:Ubuntu,Arial,sans-serif;color:#181818;background:#fff}
+body{margin:0;line-height:1.58}
+a{color:inherit}
+.container{width:min(var(--max),100%);margin:auto}
+.archive-ribbon{background:var(--ink);color:#fff;padding:8px 18px;font-size:14px;text-align:center}
+.archive-ribbon a{color:#fff}
+.topbar{height:31px;background:#f3f3f3;font-size:14px}
+.topbar .container{height:100%;display:flex;align-items:center;justify-content:space-between;padding:0 24px}
+.utility{display:flex;gap:38px}
+.historical-header{background:var(--pink)}
+.header-row{height:80px;display:grid;grid-template-columns:320px 1fr 250px;align-items:center;padding:0 10px;gap:20px}
+.logo img{max-width:250px;max-height:65px;object-fit:contain}
+.search{display:flex;justify-self:center;align-items:center;gap:15px;width:min(410px,100%)}
+.search i{display:block;width:25px;height:25px;border:2px solid #171717;border-radius:50%;position:relative}
+.search i:after{content:'';position:absolute;width:10px;height:2px;background:#171717;right:-8px;bottom:-4px;transform:rotate(47deg)}
+.search input{width:100%;border:0;background:transparent;font:inherit;outline:0}
+.cart{justify-self:end;font-size:18px;text-decoration:none}
+.category-nav{background:#fff;border-bottom:1px solid #eee}
+.category-nav .container{display:flex;justify-content:center;gap:0}
+.category-nav a{padding:13px 22px;text-decoration:none;font-weight:700;border-right:1px solid #eee}
+.category-nav a:hover{background:#fff3f8;color:#b52669}
+.snapshot-main{min-height:340px}
+.banners-row{margin:0}
+.wide-carousel{display:none}
+.next-to-carousel-banners,.banner-wrapper{width:100%}
+.next-to-carousel-banners img{display:block;width:100%;height:auto;max-height:560px;object-fit:cover}
+.welcome-wrapper{max-width:930px;margin:38px auto 52px;padding:0 24px}
+.welcome .h1,.welcome h1{font-size:34px;line-height:1.25;margin:0 0 24px}
+.welcome p{margin:0 0 13px}
+.footer{background:var(--soft)}
+.footer-main{min-height:320px;padding:38px 24px;display:flex;flex-direction:column;justify-content:space-between}
+.contact h3{margin:0 0 25px}
+.contact p{margin:8px 0}
+.footer-links{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+.footer-bottom{background:#fff;padding:15px 24px;display:flex;justify-content:space-between;font-size:14px}
+.cookie-panel{position:fixed;left:50%;bottom:0;transform:translateX(-50%);z-index:30;width:min(670px,calc(100% - 30px));background:var(--ink);color:#fff;padding:24px;box-shadow:0 0 30px #0006;display:grid;grid-template-columns:1.2fr .8fr;gap:18px;font-weight:700}
+.cookie-panel[hidden]{display:none}
+.cookie-panel button{border:0;background:#fff;color:var(--ink);font:700 15px Ubuntu;padding:12px 16px;margin:4px;cursor:pointer}
+.research-note{max-width:930px;margin:20px auto;padding:14px 18px;border:1px solid #e3b3ca;background:#fff7fb}
+.research-note summary{cursor:pointer;font-weight:700}
+.timeline-body{background:#fff8fb}
+.timeline-hero{background:linear-gradient(135deg,#17152e,#5d1740);color:#fff;padding:64px 24px}
+.timeline-hero h1{font-size:48px;line-height:1.05;margin:0 0 16px}
+.timeline-hero p{max-width:820px;font-size:19px}
+.timeline-main{max-width:1120px;margin:auto;padding:42px 24px 70px}
+.gap-warning{border-left:6px solid #d6387f;background:#fff;padding:18px 22px;box-shadow:0 8px 28px #53143112;margin-bottom:34px}
+.versions{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.version-card{background:#fff;border:1px solid #eed9e3;border-radius:12px;overflow:hidden;box-shadow:0 10px 28px #53143112;display:flex;flex-direction:column}
+.version-card img{width:100%;aspect-ratio:16/7;object-fit:cover;background:#eee}
+.version-card .empty-preview{aspect-ratio:16/7;background:linear-gradient(#f7a4c9 0 23%,#fff 23% 100%);display:flex;align-items:center;justify-content:center;color:#777}
+.version-card section{padding:20px;display:flex;flex-direction:column;flex:1}
+.version-card h2{margin:0 0 6px;font-size:24px}
+.badge{display:inline-block;background:#f7d5e5;color:#7d1747;border-radius:999px;padding:3px 9px;font-size:12px;font-weight:700;width:max-content}
+.version-card .button{margin-top:auto;display:inline-block;background:var(--ink);color:#fff;padding:11px 16px;text-decoration:none;font-weight:700;text-align:center}
+.comparison{width:100%;border-collapse:collapse;margin:42px 0;background:#fff}
+.comparison th,.comparison td{border:1px solid #ead6e0;padding:12px;text-align:left;vertical-align:top}
+.sources{font-size:14px;background:#fff;padding:22px;border:1px solid #ead6e0}
+@media(max-width:800px){
+  .topbar{height:auto}.topbar .container{padding:8px 14px}.utility:first-child{display:none}
+  .header-row{height:auto;grid-template-columns:1fr auto;padding:14px}.logo img{max-width:210px}.search{grid-column:1/-1;order:3;padding:8px 0}.cart{font-size:0}.cart:after{content:'Košík';font-size:15px}
+  .category-nav .container{overflow:auto;justify-content:flex-start}.category-nav a{white-space:nowrap;padding:11px 14px}
+  .welcome .h1,.welcome h1{font-size:28px}.versions{grid-template-columns:1fr}.timeline-hero h1{font-size:38px}
+  .comparison{display:block;overflow:auto}.cookie-panel{grid-template-columns:1fr}.footer-bottom{flex-direction:column;gap:8px}
+}
