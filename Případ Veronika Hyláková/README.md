@@ -4,7 +4,7 @@
 
 **Stav:** Zpracované podklady; propojení jednotlivých rolí není ve všech bodech ověřené
 
-**Verze:** 1.0 · 22. listopadu 2026
+**Verze:** 1.1 · 22. listopadu 2026
 
 Jméno Veronika Hyláková se objevuje u knihy, v historickém autorském údaji Top-Fight i u účtu, který ve skupině VLADĚNAplus propaguje články. V obsahu kanálu zároveň vystupuje spolupracovnice označovaná jako Veronika. Co o těchto rolích dokládají zdroje a kde zatím chybí přímé propojení?
 
@@ -48,6 +48,17 @@ Dochované rešerše lokalizují několik konkrétních pasáží:
 | [17. srpna, od 32:37](https://www.youtube.com/watch?v=RxRDSZaeLiQ&t=1957) | Otázka na „Veru“ k vydání článku, později odpověď účtu @VeruleSKarlem | Samotný výřez neuvádí celé jméno držitelky účtu |
 
 Tyto pasáže podporují popis obsahové a organizační spolupracovnice označované jako Veronika. Její přiřazení ke konkrétní osobě nelze založit jen na křestním jménu. V této edici uvádíme rešeršní shrnutí, nikoli nově ověřené doslovné přepisy celých záznamů. [Lokátory a stav ověření](prilohy/video-lokatory.csv).
+
+## Lze veřejně zkontrolovat výpočet a tok darovaných peněz?
+
+**Podstatnou otázkou je, zda lze veřejně zkontrolovat výpočet a tok darovaných peněz.** V dochovaných podkladech přitom nezaznělo pouze obecné tvrzení o pomoci:
+
+- Vladěna uvádí **100 % výtěžku vybraných produktů** a přidávání prostředků z dalších zdrojů. To není údaj o podílu z celkových tržeb e-shopu. [Vyjádření od 9:13](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=553); [popis doplňování prostředků od 9:30](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=570).
+- Idealista předkládá výřezy plateb a uvádí také **nejméně 75 000 Kč za první pololetí** plus materiální pomoc. Jeho tvrzení o ověření samo neumožňuje veřejnosti kontrolu zopakovat. [Výřezy plateb od 3:43](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223); [částka za pololetí od 5:14](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=314).
+
+V dosud prověřených podkladech jsme nenašli úplný veřejný přehled, který odděluje tržby, způsob výpočtu výtěžku vybraných výrobků, přidané soukromé prostředky a platby příjemcům. To je hranice našeho ověření, nikoli důkaz, že takový přehled neexistuje nebo že byly peníze zneužity.
+
+Uvedené pasáže jsou rešeršní lokátory veřejných vyjádření. Samy nedokládají konkrétní roli Veroniky Hylákové při převodech ani původ prostředků z účtu konkrétního provozovatele. [Zdroje a omezení](ZDROJE.md).
 
 ## Nové živnostenské oprávnění stejnojmenné osoby
 

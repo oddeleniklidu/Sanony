@@ -1,5 +1,12 @@
 # Historie oprav a doplnění
 
+## 22. listopadu 2026 — verze 1.1, vyjádření o darech
+
+- Doplněna otázka veřejné kontroly výpočtu a toku darů s časovanými odkazy na obě videa.
+- Rozlišeno vyjádření o 100 % výtěžku vybraných produktů od podílu z celkových tržeb e-shopu.
+- Uvedeno Idealistovo tvrzení o nejméně 75 000 Kč za první pololetí a materiální pomoci; odlišeno od nezávislé kontroly úplných podkladů.
+- Zachována hranice: pasáže samy neurčují konkrétní roli Hylákové při převodech.
+
 ## 22. listopadu 2026 — první zpracovaná edice
 
 - Doplněny knižní údaje, historický autorský údaj a popis činnosti komunitního účtu.

@@ -1,6 +1,6 @@
 # Metodika a hranice zjištění
 
-**Šanon VIII · Verze 1.0 · 22. listopadu 2026**
+**Šanon VIII · Verze 1.1 · 22. listopadu 2026**
 
 ## Rozsah a identifikace
 
@@ -28,7 +28,7 @@ Soukromé skupinové snímky, komentáře dalších členů a interní registr s
 
 `podnikani.json` obsahuje vybraná pole ze dvou odpovědí ARES, zdrojové URL a omezení. Je to nově sestavený výpis, nikoli úplná odpověď registru. Neobsahuje přesnou adresu ani další osobní identifikátory. Rozlišuje souhrnné datum vzniku subjektu 7. 8. 2009 a živnostenské oprávnění od 24. 10. 2026.
 
-`video-lokatory.csv` uvádí čtyři zdrojové pasáže, význam rešerše a omezení identifikace. Neobsahuje doslovné citace. `kniha.json` shrnuje vybrané katalogové údaje a přímé odkazy; není kopií knihy. Převzaté údaje a názvy nepředstavují potvrzení obvinění nebo čtenářských recenzí.
+`video-lokatory.csv` uvádí šest zdrojových pasáží, význam rešerše a omezení identifikace. Neobsahuje doslovné citace. `kniha.json` shrnuje vybrané katalogové údaje a přímé odkazy; není kopií knihy. Převzaté údaje a názvy nepředstavují potvrzení obvinění nebo čtenářských recenzí.
 
 `SHA256SUMS.txt` pokrývá vlastní texty, šablony a datové přílohy této edice; nehashuje sám sebe. Otisky potvrzují shodu bajtů, nikoli pravdivost nebo nezávislé časové razítko. Kontrolujte zdrojové soubory repozitáře, nikoli HTML sestavené GitHub Pages.
 
