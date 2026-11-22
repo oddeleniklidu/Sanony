@@ -1,6 +1,6 @@
 # Časová osa jednotlivých stop
 
-**Šanon VIII · Verze 1.1 · 22. listopadu 2026**
+**Šanon VIII · Verze 1.2 · 22. listopadu 2026**
 
 Časová řada nespojuje uvedené role automaticky do jedné osoby. Rozlišujeme datum publikace, datum zachycení a údaj registru.
 

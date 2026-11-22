@@ -20,6 +20,10 @@ exclude:
   - "Případ Veronika Hyláková/ZDROJE.md"
   - "Případ Veronika Hyláková/CASOVA-OSA.md"
   - "Případ Veronika Hyláková/OPRAVY.md"
+  - "Případ Eshop vladenagang.cz/METODIKA.md"
+  - "Případ Eshop vladenagang.cz/ZDROJE.md"
+  - "Případ Eshop vladenagang.cz/CASOVA-OSA.md"
+  - "Případ Eshop vladenagang.cz/OPRAVY.md"
 defaults:
   - scope:
       path: ""

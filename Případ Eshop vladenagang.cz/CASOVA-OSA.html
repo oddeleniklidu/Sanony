@@ -1,0 +1,6 @@
+---
+title: "Šanon VI · Časová osa"
+---
+<a class="back-link" href="index.html">← Šanon VI</a>
+{% capture case_document %}{% include_relative CASOVA-OSA.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}

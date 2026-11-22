@@ -1,5 +1,12 @@
 # Historie oprav a doplnění
 
+## 22. listopadu 2026 — verze 1.2, přímá provozní stopa e-shopu
+
+- Doplněny nově ověřené archivní podmínky soukromí, které jmenují Hylákovou při balení a odesílání objednávek.
+- Porovnána srpnová a zářijová verze bez odvozování přesného dne změny nebo začátku práce.
+- Zachováno rozlišení této role od oprávnění k bankovnímu účtu a neověřené rejstříkové totožnosti.
+- Doplněn odkaz na podrobný Šanon VI a jeho archivní otisky.
+
 ## 22. listopadu 2026 — verze 1.1, vyjádření o darech
 
 - Doplněna otázka veřejné kontroly výpočtu a toku darů s časovanými odkazy na obě videa.
