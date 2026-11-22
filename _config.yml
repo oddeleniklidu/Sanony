@@ -16,6 +16,10 @@ exclude:
   - "Případ Top-Fight.cz/METODIKA.md"
   - "Případ Top-Fight.cz/ZDROJE.md"
   - "Případ Top-Fight.cz/OPRAVY.md"
+  - "Případ Veronika Hyláková/METODIKA.md"
+  - "Případ Veronika Hyláková/ZDROJE.md"
+  - "Případ Veronika Hyláková/CASOVA-OSA.md"
+  - "Případ Veronika Hyláková/OPRAVY.md"
 defaults:
   - scope:
       path: ""

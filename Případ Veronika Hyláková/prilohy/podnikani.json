@@ -1,0 +1,40 @@
+{
+  "checked_date": "2026-11-22",
+  "kind": "Selected fields transcribed from official ARES responses; not a full registry extract",
+  "ico": "00967637",
+  "business_name": "Veronika Hyláková",
+  "seat_municipality": "Praha",
+  "summary_source": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/00967637",
+  "summary_datumVzniku": "2009-08-07",
+  "summary_datumAktualizace": "2026-11-19",
+  "summary_pravniForma": "101",
+  "summary_czNace": [
+    "471",
+    "71120",
+    "18200",
+    "73110"
+  ],
+  "summary_stavZdrojeRzp": "AKTIVNI",
+  "trade_register_source": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-rzp/00967637",
+  "trade_record_datumVzniku": "2026-10-24",
+  "trade_record_datumAktualizace": "2026-11-02",
+  "trade": {
+    "datumVzniku": "2026-10-24",
+    "predmetPodnikani": "Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona",
+    "druhZivnosti": "L",
+    "activities_valid_from": "2026-10-24",
+    "activities": [
+      "Velkoobchod a maloobchod",
+      "Výroba, rozmnožování, distribuce, prodej, pronájem zvukových a zvukově-obrazových záznamů a výroba nenahraných nosičů údajů a záznamů",
+      "Příprava a vypracování technických návrhů, grafické a kresličské práce",
+      "Reklamní činnost, marketing, mediální zastoupení"
+    ]
+  },
+  "limits": [
+    "A new trade authorization date does not mean a newly established economic entity or newly assigned IČO.",
+    "The listed activities do not establish operation of a specific e-shop, actual sales or a connection to VladěnaGang.",
+    "The registry record has not been independently linked to the book author or community account.",
+    "A registered graphics activity does not establish authorship of or rights to the Karel illustration.",
+    "Street address and other personal identifiers intentionally omitted."
+  ]
+}
