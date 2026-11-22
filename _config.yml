@@ -9,6 +9,10 @@ exclude:
   - README.md
   - docs
   - scripts
+  - "Případ František Novák/METODIKA.md"
+  - "Případ František Novák/ZDROJE.md"
+  - "Případ František Novák/CASOVA-OSA.md"
+  - "Případ František Novák/OPRAVY.md"
 defaults:
   - scope:
       path: ""
