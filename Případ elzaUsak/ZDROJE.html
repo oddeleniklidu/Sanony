@@ -1,0 +1,5 @@
+---
+title: "Šanon XI — ZDROJE"
+---
+{% capture case_document %}{% include_relative ZDROJE.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}

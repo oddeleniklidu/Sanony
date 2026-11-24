@@ -1,0 +1,7 @@
+---
+title: "Případ elzaUsak"
+---
+<a class="back-link" href="../#sanony">← Všechny šanony</a>
+<p class="eyebrow">Šanon XI · Archivní export účtu</p>
+{% capture case_readme %}{% include_relative README.md %}{% endcapture %}
+{{ case_readme | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}

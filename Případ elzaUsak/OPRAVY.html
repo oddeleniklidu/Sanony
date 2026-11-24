@@ -1,0 +1,5 @@
+---
+title: "Šanon XI — OPRAVY"
+---
+{% capture case_document %}{% include_relative OPRAVY.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}
