@@ -27,6 +27,10 @@ exclude:
   - "Případ elzaUsak/METODIKA.md"
   - "Případ elzaUsak/ZDROJE.md"
   - "Případ elzaUsak/OPRAVY.md"
+  - "Případ Nika Glosa/ZDROJE.md"
+  - "Případ Nika Glosa/METODIKA.md"
+  - "Případ Nika Glosa/CASOVA-OSA.md"
+  - "Případ Nika Glosa/OPRAVY.md"
 defaults:
   - scope:
       path: ""

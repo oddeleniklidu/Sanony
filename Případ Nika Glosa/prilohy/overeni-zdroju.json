@@ -1,0 +1,47 @@
+{
+  "checked_on": "2026-11-24",
+  "kind": "Metadata newly extracted for this edition; source HTML is not included",
+  "sources": [
+    {
+      "name": "profil",
+      "url": "https://dokonalazena.cz/author/veronika/",
+      "status": 200,
+      "sha256": "b7c70fa722d441b43511c9510a80953ffda41b5a11ff0b09eda0b9dfc522a2e5",
+      "title": "Nika Glosa - Dokonalá žena",
+      "contains_nika_glosa": true
+    },
+    {
+      "name": "rss",
+      "url": "https://dokonalazena.cz/author/veronika/feed/",
+      "status": 200,
+      "sha256": "a06235b9ee845bbf3b3bf4f6c37a6b28bf6178202590e5119ddcfe8ba29283b7",
+      "title": "Nika Glosa – Dokonalá žena (RSS)",
+      "contains_nika_glosa": true
+    },
+    {
+      "name": "sportwin",
+      "url": "https://sportwin.cz/clanek/58814-Princezna-prisla-o-praci-na-zivnost-Shopaholic-Adel-je-bez-Instagramu-i-Facebooku-Za-vse-mohou-hejtri.html",
+      "status": 200,
+      "sha256": "15e3db1663814a4c440a30a0a3af1bdfb05d0c97f701d58ab7a8e56efbaa2905",
+      "title": "Princezna přišla o práci na živnost. Shopaholic Adél je bez Instagramu i Facebooku. Za vše mohou „he » SportWin",
+      "contains_nika_glosa": true
+    },
+    {
+      "name": "clanek",
+      "url": "https://dokonalazena.cz/clanek-105129-nemuzu-do-prace-psychiatr-mi-ji-zakazal-shopaholic-adel-ma-na-dluhy-omluvenku-ale-u-soudu-tvrde-narazila.html",
+      "status": 200,
+      "sha256": "965c719f15b41caa5dcbd3a2d956616992fb4d6572804c8c0ff89928d4886273",
+      "title": "„Nemůžu do práce, psychiatr mi ji zakázal!“ Shopaholic Adél má na dluhy omluvenku, ale u soudu tvrdě narazila - Dokonalá žena",
+      "contains_nika_glosa": true
+    }
+  ],
+  "rss_item_count": 49,
+  "rss_creator_names": [
+    "Nika Glosa"
+  ],
+  "youtube_oembed_check": {
+    "video_id": "tat6ouCv1F0",
+    "status": 403,
+    "note": "Channel assignment was not freshly verified; historical report is distinguished from current checks."
+  }
+}
