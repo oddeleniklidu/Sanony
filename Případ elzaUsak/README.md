@@ -4,7 +4,7 @@
 
 **Stav:** Zpracování dodaného archivního exportu; současná dostupnost příspěvků neověřena
 
-**Verze:** 1.0 · 24. listopadu 2026
+**Verze:** 1.1 · 24. listopadu 2026
 
 Šanon zpřístupňuje dodaný export příspěvků účtu označeného jako **@elzaUsak**, s YouTube Channel ID **UCPkDzoqcN13kBW_0MVrw7kA**. Obsahuje historii dvou pozorovaných přezdívek, 62 komentářů a odpovědí a 21 zpráv z živých chatů. Číslo 401 je interní identifikátor autora v exportu, nikoli identifikátor YouTube.
 
