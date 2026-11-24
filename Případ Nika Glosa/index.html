@@ -1,0 +1,7 @@
+---
+title: "Šanon XII — Nika Glosa"
+---
+<a class="back-link" href="../#sanony">← Všechny šanony</a>
+<p class="eyebrow">Šanon XII · Zpracované podklady</p>
+{% capture case_document %}{% include_relative README.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}

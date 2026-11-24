@@ -13,3 +13,5 @@
 "Případ elzaUsak/prilohy/autor-401.*" -text
 
 "Případ elzaUsak/prilohy/*.png" binary
+
+"Případ Nika Glosa/**" text eol=lf

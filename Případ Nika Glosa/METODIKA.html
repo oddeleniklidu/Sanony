@@ -1,0 +1,7 @@
+---
+title: "Šanon XII — METODIKA"
+---
+<a class="back-link" href="index.html">← Nika Glosa</a>
+<p class="eyebrow">Šanon XII · Zpracované podklady</p>
+{% capture case_document %}{% include_relative METODIKA.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}

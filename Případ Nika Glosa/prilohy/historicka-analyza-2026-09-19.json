@@ -1,0 +1,14 @@
+{
+  "report_date": "2026-09-19",
+  "kind": "Transcription of historical research summary, not a newly reproduced row-level calculation",
+  "source_report_sha256": "2e9775a99f80dd9070d44533d14b4feb85ade3b9747b8ceea256a570c6af5989",
+  "reported_article_count": 35,
+  "reported_embedded_video_count": 28,
+  "reported_vladenaplus_video_count": 24,
+  "reported_distinct_articles_with_vladenaplus": 24,
+  "timing_assumptions": "Article timestamps interpreted as Europe/Prague and local video-index timestamps as UTC",
+  "reported_articles_within_24h": 11,
+  "reported_articles_within_48h": 17,
+  "row_level_correlation_attached": false,
+  "limitation": "The original complete correlation table was not located for this edition. Counts and timing are attributed to the historical report, not independently recomputed."
+}

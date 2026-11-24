@@ -15,6 +15,8 @@ Přehled případů Oddělení klidu.
 
 - [Případ @elzaUsak — Šanon XI](P%C5%99%C3%ADpad%20elzaUsak/README.md)
 
+- [Případ Nika Glosa — Šanon XII](P%C5%99%C3%ADpad%20Nika%20Glosa/README.md)
+
 ## Web
 
 [Otevřít web Šanony](https://oddeleniklidu.github.io/Sanony/)
