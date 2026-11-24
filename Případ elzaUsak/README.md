@@ -4,11 +4,32 @@
 
 **Stav:** Zpracování dodaného archivního exportu; současná dostupnost příspěvků neověřena
 
-**Verze:** 1.1 · 24. listopadu 2026
+**Verze:** 1.2 · 24. listopadu 2026
 
 Šanon zpřístupňuje dodaný export příspěvků účtu označeného jako **@elzaUsak**, s YouTube Channel ID **UCPkDzoqcN13kBW_0MVrw7kA**. Obsahuje historii dvou pozorovaných přezdívek, 62 komentářů a odpovědí a 21 zpráv z živých chatů. Číslo 401 je interní identifikátor autora v exportu, nikoli identifikátor YouTube.
 
 [Prohlédnout úplné tabulky: přezdívky, komentáře a živé chaty](ZAZNAMY.html)
+
+## Podobný komentář na Facebooku a YouTube
+
+Na dodaném snímku diskuse, který byl předán jako zachycení Facebooku, vystupuje účet **NaštvanýKrálíček**. Jeho komentář má výraznou obsahovou podobnost se zprávou účtu **@elzaUsak** (v exportu také **@eliskanedvedova3679**) na YouTube: oba texty spojují Brigitu, přijetí dotyčné osoby domů a morčata „na hraní“.
+
+**Facebook — NaštvanýKrálíček, přepis ze snímku:**
+
+> Marie Manhartova třeba Brigita nebo Upír si ji vezmou k sobě. Brigita jí může dát švy morčata na hrani
+
+**YouTube — @elzaUsak, 16. listopadu 2026 v 18:43:10 (Europe/Prague):**
+
+> jojo Brigita by si ji nastěhovali domu a dala ji svoje morčata na hraní 🤮
+
+Druhý text je v dodaném XML veden jako zpráva z živého chatu u videa [PEJSEK ZACHRÁNĚN? (ID 1UIakpOX2cE)](https://www.youtube.com/watch?v=1UIakpOX2cE). [Přejít na příslušný řádek v úplných záznamech](ZAZNAMY.html#chat-20261116-184310).
+
+**Vyhodnocení:** Shoduje se motiv a část formulace, nikoli celé znění komentáře. Tato podobnost je podnětem k dalšímu ověření možné souvislosti účtů; sama neprokazuje, že mají společného autora nebo provozovatele. Bez přesného data a původního odkazu na facebookový komentář nelze určit ani pořadí obou výroků. Označení „2 d“ na obrázku není samostatně dostatečným datováním.
+
+<figure>
+  <a href="prilohy/nastvanykralicek-facebook.png"><img src="prilohy/nastvanykralicek-facebook.png" alt="Dodaný snímek diskuse: účet NaštvanýKrálíček píše, že Brigita nebo Upír si dotyčnou vezmou k sobě a Brigita jí může dát morčata na hraní." width="1080" height="961" loading="lazy"></a>
+  <figcaption>Dodaný snímek účtu NaštvanýKrálíček. Původní URL a přesný čas zachycení nebyly dodány. Obrázek je přiložen beze změny; kliknutím jej lze otevřít v plném rozlišení.</figcaption>
+</figure>
 
 ## Co dodané podklady obsahují
 

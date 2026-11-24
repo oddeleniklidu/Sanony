@@ -1,6 +1,6 @@
 # Metodika a omezení
 
-**Šanon XI · Edice 1.0 · 24. listopadu 2026**
+**Šanon XI · Edice 1.2 · 24. listopadu 2026**
 
 1. Převzaty tři dodané soubory HTML, XML a Markdown. Přílohy byly zkopírovány bez obsahových nebo technických úprav; přejmenován byl pouze název souborů na `autor-401` s příslušnou příponou.
 2. Počty záznamů, rozdělení kanálů, typy zpráv a časový rozsah vypočteny ze struktury XML. Přezdívky přiřazuje export jednomu YouTube Channel ID. Ověřena shoda počtů řádků zobrazovaných tabulek s XML.
@@ -10,5 +10,9 @@
 Dodané soubory jsou archivním exportem, nikoli nezávislou kontrolou YouTube. V rámci této edice jsme znovu neověřovali existenci příspěvků, pravost zachycení, vazbu na osobu ani obvinění v textech. Datum vytvoření exportu a metoda původního sběru nejsou v dodaných podkladech úplně doloženy. Datum edice je datem našeho zpracování.
 
 Časy publikování, časy pozorování přezdívek a případné datum kontroly jsou odlišné údaje. Poslední pozorování přezdívky není posledním komentářem a stav `missing` není důkazem smazání. Záznamy nejsou reprezentativním výběrem veškeré aktivity účtu.
+
+## Porovnání se snímkem diskuse
+
+V edici 1.2 jsme přepsali viditelný komentář účtu NaštvanýKrálíček z dodaného snímku a porovnali jej s konkrétní zprávou v původním XML. Uvedeny jsou oba texty, společný motiv i rozdíly v důkazním významu. Z obsahové podobnosti neurčujeme osobu za účty ani společné ovládání. Chybějící URL a přesné datování snímku zůstávají otevřené. Obrázek byl převzat v původních bajtech a zahrnut do kontrolních součtů.
 
 [Zpět na šanon](README.md)
