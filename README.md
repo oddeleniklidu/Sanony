@@ -13,6 +13,8 @@ Přehled případů Oddělení klidu.
 - [Případ Red Face](P%C5%99%C3%ADpad%20Red%20Face/README.md)
 - [Případ VladěnaPLUS](P%C5%99%C3%ADpad%20Vlad%C4%9BnaPLUS/README.md)
 
+- [Případ @elzaUsak — Šanon XI](P%C5%99%C3%ADpad%20elzaUsak/README.md)
+
 ## Web
 
 [Otevřít web Šanony](https://oddeleniklidu.github.io/Sanony/)

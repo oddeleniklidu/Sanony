@@ -1,0 +1,5 @@
+---
+title: "Šanon XI — METODIKA"
+---
+{% capture case_document %}{% include_relative METODIKA.md %}{% endcapture %}
+{{ case_document | replace: 'README.md', 'index.html' | replace: '.md', '.html' | markdownify }}

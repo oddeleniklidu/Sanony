@@ -8,3 +8,6 @@
 *.jpg binary
 *.woff2 binary
 *.zip binary
+
+"Případ elzaUsak/**" text eol=lf
+"Případ elzaUsak/prilohy/autor-401.*" -text

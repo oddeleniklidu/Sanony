@@ -24,6 +24,9 @@ exclude:
   - "Případ Eshop vladenagang.cz/ZDROJE.md"
   - "Případ Eshop vladenagang.cz/CASOVA-OSA.md"
   - "Případ Eshop vladenagang.cz/OPRAVY.md"
+  - "Případ elzaUsak/METODIKA.md"
+  - "Případ elzaUsak/ZDROJE.md"
+  - "Případ elzaUsak/OPRAVY.md"
 defaults:
   - scope:
       path: ""
