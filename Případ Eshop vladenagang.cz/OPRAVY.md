@@ -1,5 +1,12 @@
 # Historie oprav a doplnění
 
+## 27. listopadu 2026 — verze 1.2, transparentní účet
+
+- Přidán přímý uživatelem poskytnutý odkaz na transparentní účet Fio banky.
+- Doplněn cílený výřez dvou plateb ze snímku datovaného 30. března 2026 (15 000 Kč a 200 Kč); ostatní přispěvatelé jsou mimo výřez.
+- Doplněn přesný přepis údajů na výřezu, odlišení prokázaného obsahu výpisu od možného původu peněz a satirická poznámka Hamburgera.
+- Obsah internetového bankovnictví nebyl při této edici nezávisle načten; nezveřejňuje se tvrzení o celkovém objemu darů.
+
 ## 22. listopadu 2026 — verze 1.1, dvě offline přílohy
 
 - Přidány již uložené srpnová rekonstrukce homepage a zářijová statická kopie 12 stránek, včetně ZIPu.

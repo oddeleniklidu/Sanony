@@ -4,7 +4,7 @@
 
 **Stav:** Zpracované archivní podklady; úplný výpočet a tok příspěvků neověřen
 
-**Verze:** 1.1 · 22. listopadu 2026
+**Verze:** 1.2 · 27. listopadu 2026
 
 Jakou část nákupu e-shop sliboval věnovat na pomoc a kdo se podílel na jeho provozu? Porovnali jsme konkrétní archivní stránky. Rozdíl mezi částečným a celým příspěvkem není jen otázkou dvou dat: obě formulace jsou zachyceny současně na jedné stránce.
 
@@ -50,6 +50,27 @@ Ve [srpnové homepage](https://web.archive.org/web/20260810082905/https://www.vl
 Balíček obsahuje **rekonstrukci homepage z 10. srpna 2026** a **statickou kopii dvanácti stránek z 25. září 2026**. Nejde o dva úplné technické otisky obchodu. Srpnové odkazy do dalších sekcí vedou do internetového archivu; tyto sekce nejsou uloženy v balíčku. Zářijové informační stránky lze procházet místně. Po rozbalení otevřete hlavní soubor `index.html`.
 
 Kopie mají viditelné označení původu a data. Skripty byly odstraněny a formuláře i nákupní prvky jsou neaktivní. Obsahují historické veřejné texty a kontakty e-shopu; samotné kopie nepotvrzují současnou platnost uvedených údajů. Podrobnosti úprav uvádí rozcestník.
+
+## Transparentní účet: dvě zachycené platby z 30. března 2026
+
+[Otevřít transparentní účet Fio banky, účet 2803068745 (období 23. 9. 2025 až 23. 9. 2026)](https://ib.fio.cz/ib/transparent?a=2803068745&f=23.09.2025&t=23.09.2026)
+
+Níže je **výřez ze snímku výpisu dodaného Oddělení klidu**. Záměrně zachovává jen dva relevantní řádky z 30. března 2026, aby nezveřejňoval údaje dalších přispěvatelů. Výřez není úplným bankovním výpisem. Přímý odkaz na účet je veřejný, ale jeho aktuální obsah a historické transakce nebyly pro tuto aktualizaci nezávisle znovu načteny.
+
+![Výřez transparentního účtu Fio: příchozí platby 15 000 Kč a 200 Kč dne 30. března 2026](prilohy/fio-prichozi-platby-2026-03-30.png)
+
+*Zdroj: snímek veřejného transparentního účtu poskytnutý Oddělení klidu; výřez bez ostatních transakcí. Částky a texty níže jsou přepisem toho, co je na obrázku vidět.*
+
+| Datum | Částka | Jméno zobrazené na výpisu | Poznámka uvedená u platby |
+| --- | ---: | --- | --- |
+| 30. 3. 2026 | 15 000 Kč | Veronika Hyláková | „VladěnaGang - pomáháme společně“ |
+| 30. 3. 2026 | 200 Kč | Petr Bašta | „Pomaham Docaskam a trvalkam u Paji“ |
+
+**Co snímek dokládá:** V zachyceném výpisu jsou oba uvedené příchozí záznamy se stejným datem a odlišnými jmény i poznámkami. Samotný popis platby není účetním dokladem o zdroji peněz. Z těchto dvou položek nelze vypočítat celkový objem pomoci, doložit původ v tržbách e-shopu ani vyloučit jiné příspěvky. Údaj o 200 Kč proto **není údajem o celkové pomoci**.
+
+Související [veřejná reakce Idealisty (od 3:43)](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223) zobrazuje výřezy těchto plateb a potvrzení. Jeho výklad původu peněz je nutné odlišit od toho, co skutečně zachycuje samotný výpis.
+
+> **Hamburgerova poznámka (satirický komentář):** „Dvě stovky, patnáct tisíc a internetová bitva o jeden výpis! Čísla tu jsou. Ale kolik z toho bylo z prodejů? Bez vyúčtování budeme jen přehazovat částky jak hranolky na pánvi.“
 
 ## Co o podpoře zaznělo ve videích
 
