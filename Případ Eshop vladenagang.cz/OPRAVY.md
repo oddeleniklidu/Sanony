@@ -1,5 +1,12 @@
 # Historie oprav a doplnění
 
+## 27. listopadu 2026 — verze 1.3, původ prostředků a údaj RES
+
+- Doplněny otázky k původu 15 000 Kč, způsobu jejich případného svěření Hylákové, schválení převodu a návaznosti na účetnictví či daňovou evidenci provozovatele.
+- Idealistův výklad odlišen od doložení cesty peněz; chybějící podklady nejsou vydávány za důkaz neexistence pověření nebo pomoci.
+- Doplněn údaj „Bez zaměstnanců“ z dodaného snímku pro správné IČO 74284215 a vybraná pole nezávisle načtené odpovědi ARES/RES. Snímek pro jiné IČO nebyl použit jako důkaz o provozovateli.
+- Zachováno časové omezení statistického údaje a rozlišení zaměstnání, externí spolupráce, přístupu k účetním údajům a oprávnění k penězům. Přesná adresa ze snímku ani úplná odpověď registru nejsou přebírány.
+
 ## 27. listopadu 2026 — verze 1.2, transparentní účet
 
 - Přidán přímý uživatelem poskytnutý odkaz na transparentní účet Fio banky.

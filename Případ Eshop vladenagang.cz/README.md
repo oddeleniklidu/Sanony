@@ -4,7 +4,7 @@
 
 **Stav:** Zpracované archivní podklady; úplný výpočet a tok příspěvků neověřen
 
-**Verze:** 1.2 · 27. listopadu 2026
+**Verze:** 1.3 · 27. listopadu 2026
 
 Jakou část nákupu e-shop sliboval věnovat na pomoc a kdo se podílel na jeho provozu? Porovnali jsme konkrétní archivní stránky. Rozdíl mezi částečným a celým příspěvkem není jen otázkou dvou dat: obě formulace jsou zachyceny současně na jedné stránce.
 
@@ -71,6 +71,26 @@ Níže je **výřez ze snímku výpisu dodaného Oddělení klidu**. Záměrně 
 Související [veřejná reakce Idealisty (od 3:43)](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223) zobrazuje výřezy těchto plateb a potvrzení. Jeho výklad původu peněz je nutné odlišit od toho, co skutečně zachycuje samotný výpis.
 
 > **Hamburgerova poznámka (satirický komentář):** „Dvě stovky, patnáct tisíc a internetová bitva o jeden výpis! Čísla tu jsou. Ale kolik z toho bylo z prodejů? Bez vyúčtování budeme jen přehazovat částky jak hranolky na pánvi.“
+
+## Jak se prostředky dostaly k Veronice Hylákové?
+
+**V dostupných podkladech není doloženo, zda platba 15 000 Kč vedená pod jménem Veroniky Hylákové pocházela z výdělku e-shopu, z jejích vlastních prostředků, nebo z kombinace zdrojů.** Idealistův výklad původu peněz v [reakci od 3:43](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223) nepovažujeme za nezávislé doložení této vazby. Předložené výřezy plateb a potvrzení dokládají zachycené převody; samy nepropojují konkrétní prodeje, výpočet příspěvku a cestu peněz k odesílatelce.
+
+Pokud mělo jít o prostředky z podnikání Petra Bašty, potřebujeme vysvětlit a doložit:
+
+- Z jakých prodejů a za jaké období částka vznikla a zda se příspěvek počítal z tržeb, výtěžku, nebo zisku?
+- Jakým způsobem se prostředky dostaly k Hylákové: převodem, v hotovosti, nebo jiným způsobem? Kdo jí je svěřil a na základě jaké dohody či pověření?
+- Kdo schválil jejich odeslání příjemci a jak byla částka i případné předání Hylákové zaznamenána v účetnictví nebo daňové evidenci provozovatele?
+- Jednala Hyláková při převodu za provozovatele, nebo poskytovala vlastní dar? Jak toto rozlišení dokládají navazující záznamy?
+- Pokud při této činnosti přistupovala k neveřejným účetním údajům nebo nakládala s podnikatelskými prostředky, jaký byl rozsah a základ jejího pověření?
+
+K ověření by pomohly navazující doklady s odstraněnými soukromými údaji, které propojí výpočet příspěvku, případné předání prostředků a konečnou platbu. **Neuzavíráme, že žádné pověření nebo vysvětlení neexistovalo; v dosud prověřených podkladech je nemáme doložené.** Jméno na příchozí platbě samo neprokazuje přístup k účetnictví ani dispoziční oprávnění k Baštovu účtu.
+
+## Co uvádí ARES/RES o zaměstnancích provozovatele
+
+Dodaný snímek ARES/RES uvádí u **Petra Bašty, IČO 74284215**, kategorii počtu pracovníků **„Bez zaměstnanců“**. Jde o stejné IČO, jaké uvádějí archivní podmínky e-shopu. Na snímku je aktualizace databáze **27. listopadu 2026** a poslední změna údajů subjektu **7. října 2025**. [Oficiální odpověď ARES/RES](https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-res/74284215), načtená 27. listopadu 2026, potvrzuje jméno, IČO, datum aktualizace záznamu a kód kategorie `110`; slovní označení přebíráme z dodaného snímku. [Výpis použitých polí a původ](prilohy/ares-res-74284215.json).
+
+**Jde o evidovaný statistický údaj, nikoli o samostatné ověření pracovního vztahu Hylákové k 30. březnu 2026.** Data změny záznamu a aktualizace databáze sama neurčují období platnosti každého jednotlivého pole. Zářijová zmínka o externím balení objednávek nevysvětluje její březnovou roli při převodu peněz. Ani údaj „Bez zaměstnanců“ sám neurčuje, zda existovala jiná dohoda nebo pověření; jejich existenci a rozsah jsme neověřili.
 
 ## Co o podpoře zaznělo ve videích
 

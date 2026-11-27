@@ -1,6 +1,6 @@
 # Zdroje a jejich význam
 
-**Šanon VI · Verze 1.0 · 22. listopadu 2026**
+**Šanon VI · Verze 1.3 · 27. listopadu 2026**
 
 | Zdroj | Co používáme | Co z něj nevyplývá |
 | --- | --- | --- |
@@ -12,6 +12,10 @@
 | [Homepage, 25. 9.](https://web.archive.org/web/20260925105144/https://www.vladenagang.cz/) | Pozdější omezený obsah titulní stránky | Příčina změny nebo konec podnikání |
 | [VLADĚNAplus od 9:13](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=553), [od 9:30](https://www.youtube.com/watch?v=NRQ3Hg27LXQ&t=570) | Rešeršní shrnutí vyjádření k podpoře | Úplný účetní přehled |
 | [Idealista od 3:43](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223), [od 5:14](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=314) | Výřezy plateb a částka tvrzené pomoci | Ověření všech zdrojů darů |
+
+## ARES/RES a údaj o zaměstnancích
+
+Nový podklad verze 1.3: [vybraná pole ARES/RES pro IČO 74284215](prilohy/ares-res-74284215.json), nezávisle načtená 27. listopadu 2026 z [oficiálního API](https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-res/74284215), a uživatelem dodaný snímek stejného záznamu se slovním označením „Bez zaměstnanců“. Výpis je vlastní výběr polí, nikoli úplná odpověď registru. Neobsahuje přesnou adresu. Neprokazuje samostatně historický pracovněprávní stav Hylákové, její přístup k účetnictví ani původ platby 15 000 Kč.
 
 ## Přímé archivní indexy
 
