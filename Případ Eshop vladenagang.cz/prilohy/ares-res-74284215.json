@@ -1,0 +1,20 @@
+{
+  "popis": "Vlastní výběr polí odpovědi ARES/RES; nejde o úplnou odpověď registru.",
+  "zdroj": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-res/74284215",
+  "datumOvereni": "2026-11-27",
+  "ico": "74284215",
+  "obchodniJmeno": "Petr Bašta",
+  "datumAktualizace": "2025-10-07",
+  "kategoriePoctuPracovniku": "110",
+  "slovniOznaceni": {
+    "hodnota": "Bez zaměstnanců",
+    "zdroj": "Uživatelem dodaný snímek ARES/RES pro IČO 74284215",
+    "aktualizaceDatabazeNaSnimku": "2026-11-27"
+  },
+  "omezeni": [
+    "Nejde o samostatné ověření historického pracovněprávního stavu k 30. březnu 2026.",
+    "Data aktualizace neurčují dobu platnosti jednotlivých polí.",
+    "Neprokazuje smluvní vztah Hylákové, finanční pověření ani původ platby.",
+    "Přesná adresa a další nepoužitá pole nejsou převzaty."
+  ]
+}
