@@ -1,10 +1,14 @@
 # Metodika a hranice zjištění
 
-**Šanon VIII · Verze 1.2 · 22. listopadu 2026**
+**Šanon VIII · Verze 1.3 · 28. listopadu 2026**
 
 ## Rozsah a identifikace
 
 Edice vychází z dřívějších rešerší, uložených článků a snímků, knihkupeckých katalogů a oficiálních výpisů ARES načtených při přípravě 22. listopadu. Nejde o úplný životopis ani úplný audit účtu, knihy nebo redakce.
+
+Aktualizace 28. listopadu přebírá z Šanonu VI dodaný výřez plateb a vybraná pole ARES/RES pro IČO 74284215 ověřená 27. listopadu. Bankovnictví ani registr při této aktualizaci znovu nenačítáme. Obrázek a výpis zůstávají uložené v Šanonu VI; zde je propojujeme odkazy. Jejich kontrolní součty jsou v [manifestu Šanonu VI](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/prilohy/SHA256SUMS.txt).
+
+Jméno a poznámka na platbě nejsou dokladem původu prostředků, přístupu k účetnictví nebo dispozičních oprávnění. Údaj RES „Bez zaměstnanců“ nepřenášíme bez historického ověření na konkrétní pracovní vztah k datu platby. Nové podklady také nepoužíváme k automatickému ztotožnění všech osob stejného jména. Chybějící vysvětlení v prověřených podkladech neznamená doložené odmítnutí odpovědi ani neoprávněné jednání.
 
 Rozlišujeme údaje zveřejněné vydavatelem, činnost pojmenovaného účtu, výroky o osobě označené křestním jménem a údaje ekonomického subjektu. Stejné jméno samo neověřuje totožnost. U historického autorského řádku dokládáme zveřejněné označení, nikoli fyzické autorství odstavců.
 

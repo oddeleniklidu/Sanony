@@ -1,6 +1,6 @@
 # Zdroje a jejich význam
 
-**Šanon VIII · Verze 1.2 · 22. listopadu 2026**
+**Šanon VIII · Verze 1.3 · 28. listopadu 2026**
 
 | Zdroj | Použití | Omezení |
 | --- | --- | --- |
@@ -17,6 +17,16 @@
 | [Podmínky soukromí, 25. 9.](https://web.archive.org/web/20260925105200/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/), [10. 8.](https://web.archive.org/web/20260810082919/https://www.vladenagang.cz/podminky-ochrany-osobnich-udaju/) | Provozní role zveřejněná e-shopem a porovnání verzí | Neurčuje správu financí ani propojení s IČO |
 | [ARES — souhrnný výpis IČO 00967637](https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/00967637) | Jméno, obec sídla a datum evidovaného vzniku subjektu | Nepropojuje subjekt s autorkou knihy |
 | [ARES — živnostenská evidence IČO 00967637](https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty-rzp/00967637) | Oprávnění a obory od 24. 10. 2026 | Nedokládá skutečný provoz e-shopu nebo práva k ilustraci |
+
+## Podklady doplněné ze Šanonu VI
+
+| Zdroj | Použití | Omezení |
+| --- | --- | --- |
+| [Výřez dvou plateb z 30. 3. 2026](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/prilohy/fio-prichozi-platby-2026-03-30.png) | Viditelné datum, částky, jména a poznámky u plateb 15 000 Kč a 200 Kč | Dodaný snímek, nikoli úplný výpis nebo nové načtení banky; neprokazuje původ peněz, celkovou pomoc ani finanční pověření |
+| [Vybraná pole ARES/RES pro IČO 74284215](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/prilohy/ares-res-74284215.json) | Údaje nezávisle načtené 27. 11. 2026; slovní označení „Bez zaměstnanců“ z dodaného snímku | Statistický údaj o provozovateli, nikoli historické ověření pracovního vztahu Hylákové nebo jejího oprávnění k penězům |
+| [Šanon VI, verze 1.3 z 27. 11. 2026](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/index.html) | Původ příloh, otevřené otázky k cestě peněz a jejich omezení | Související zpracování týchž podkladů, nikoli další nezávislé potvrzení |
+
+Pro toto doplnění nebyl znovu načten obsah bankovnictví ani registru a neproběhla nová úplná zvuková kontrola Idealistovy reakce. Výklad původu peněz proto nerozšiřujeme nad hranice uvedených podkladů.
 
 ## Podklady dostupné jen v pracovním souboru
 

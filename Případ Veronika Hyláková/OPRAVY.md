@@ -1,5 +1,13 @@
 # Historie oprav a doplnění
 
+## 28. listopadu 2026 — verze 1.3, platba a nevyjasněný původ prostředků
+
+- Z Šanonu VI převzat popis výřezu plateb z 30. března 2026; příloha je dostupná přímým odkazem i vloženým obrázkem bez vytváření další kopie.
+- Doplněny otázky k původu 15 000 Kč, případnému svěření prostředků Hylákové, schválení převodu, pověření a účetní či daňové evidenci.
+- Odlišen Idealistův výklad od doložené cesty peněz a zachována omezení identifikace osob, úplnosti výpisu i závěrů o oprávnění.
+- Převzat údaj „Bez zaměstnanců“ pro Baštovo IČO 74284215 z podkladů zpracovaných 27. listopadu; není vydáván za ověření pracovního vztahu Hylákové k březnové platbě ani za nové načtení registru.
+- Aktualizovány zdroje, metodika, časová osa a kontrolní součty.
+
 ## 22. listopadu 2026 — verze 1.2, přímá provozní stopa e-shopu
 
 - Doplněny nově ověřené archivní podmínky soukromí, které jmenují Hylákovou při balení a odesílání objednávek.
