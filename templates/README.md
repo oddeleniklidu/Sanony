@@ -13,7 +13,7 @@ Výchozí commit: `90d3962b921afe971033fee4ce76eb06fa05e6a8` (28. 11. 2026).
    Přidělené číslo ověřte proti aktuálnímu přehledu. Číslo Red Face nepřebírejte.
 3. Nahraďte všechny značky `DOPLNIT`. Používejte jen skutečné zdroje.
    Nezpracovanou část označte „Podklady se připravují“; nevytvářejte zjištění
-   pouze pro zaplnění šablony. Samotný screening není ověřený důkaz.
+   pouze pro zaplnění šablony. Předběžné posouzení nenahrazuje ověření zdrojů.
 4. Nejprve připravte soukromý návrh. Před veřejným PR zkontrolujte údaje,
    přílohy, historii změn i Git identitu; veřejný PR je už zveřejnění obsahu.
 5. Ověřte pravidla níže, sestavení webu a místní odkazy. Přidání do hlavního
@@ -41,7 +41,7 @@ GitHub náhledy těchto cílových odkazů působit jako neexistující.
   údaje. Redigujte je i v přílohách, náhledech, metadatech a názvech souborů.
 - Nezveřejňujte klíče, přihlašovací údaje, jméno ani místní cesty autora podkladů.
 - Nezveřejňujte interní osobní skóre, automatická obvinění, seznamy žalovaných
-  ani závěry o vině. VZ/PR jsou orientační interní posouzení úseku.
+  ani závěry o vině. Veřejný text musí vycházet z individuálně ověřených podkladů.
 - Veřejné opravy zaznamenejte datem a důvodem; citlivé podněty směrujte na
   kontakt uvedený na stránce O Vydřině archivu, nikoli do veřejného issue.
 
@@ -53,7 +53,7 @@ GitHub náhledy těchto cílových odkazů působit jako neexistující.
 - Byla posouzena přiměřenost publikace a soukromí, včetně všech příloh.
 - Je zaznamenáno, kdo návrh přezkoumal, kdy a podle jaké verze pravidel
   (v soukromé redakční evidenci, bez povinného zveřejnění identity).
-- Veřejná verze byla samostatně schválena. Potvrzení screeningové klasifikace nestačí.
+- Veřejná verze byla samostatně schválena po kontrole textu a všech příloh.
 
 Volitelné přílohy `ZDROJE.md`, `METODIKA.md`, `CASOVA-OSA.md` a `OPRAVY.md`
 přidejte podle rozsahu případu po vzoru existujících šanonů. Pokud mají vlastní
