@@ -4,7 +4,7 @@
 
 **Stav:** Zpracované podklady; propojení jednotlivých rolí není ve všech bodech ověřené
 
-**Verze:** 1.2 · 22. listopadu 2026
+**Verze:** 1.3 · 28. listopadu 2026
 
 Jméno Veronika Hyláková se objevuje u knihy, v historickém autorském údaji Top-Fight i u účtu, který ve skupině VLADĚNAplus propaguje články. V obsahu kanálu zároveň vystupuje spolupracovnice označovaná jako Veronika. Co o těchto rolích dokládají zdroje a kde zatím chybí přímé propojení?
 
@@ -64,7 +64,32 @@ Tím je doložena konkrétní provozní vazba uváděná webem. Neověřili jsme
 
 V dosud prověřených podkladech jsme nenašli úplný veřejný přehled, který odděluje tržby, způsob výpočtu výtěžku vybraných výrobků, přidané soukromé prostředky a platby příjemcům. To je hranice našeho ověření, nikoli důkaz, že takový přehled neexistuje nebo že byly peníze zneužity.
 
-Uvedené pasáže jsou rešeršní lokátory veřejných vyjádření. Samy nedokládají konkrétní roli Veroniky Hylákové při převodech ani původ prostředků z účtu konkrétního provozovatele. [Zdroje a omezení](ZDROJE.md).
+Uvedené pasáže jsou rešeršní lokátory veřejných vyjádření. Samy nedokládají konkrétní roli Veroniky Hylákové při převodech ani původ prostředků z účtu konkrétního provozovatele. Nově připojený snímek výpisu níže zachycuje platbu pod jejím jménem, ale ani ten nevysvětluje původ peněz. [Zdroje a omezení](ZDROJE.md).
+
+## Platba 15 000 Kč pod jménem Veroniky Hylákové
+
+[Výřez transparentního účtu uložený v Šanonu VI](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/prilohy/fio-prichozi-platby-2026-03-30.png) zachycuje dne **30. března 2026** příchozí platbu **15 000 Kč**, jméno **Veronika Hyláková** a poznámku **„VladěnaGang - pomáháme společně“**. Druhý řádek ze stejného dne uvádí **200 Kč**, jméno **Petr Bašta** a poznámku „Pomaham Docaskam a trvalkam u Paji“.
+
+![Výřez transparentního účtu: platby 15 000 Kč pod jménem Veroniky Hylákové a 200 Kč pod jménem Petra Bašty dne 30. března 2026](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/prilohy/fio-prichozi-platby-2026-03-30.png)
+
+Jde o výřez snímku dodaného Oddělení klidu, nikoli úplný výpis nebo nové nezávislé načtení bankovnictví. [Odkaz na veřejný transparentní účet Fio](https://ib.fio.cz/ib/transparent?a=2803068745&f=23.09.2025&t=23.09.2026) a původ přílohy popisuje [Šanon VI](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/index.html). **Jméno a poznámka na platbě samy neprokazují původ peněz v e-shopu, přístup Hylákové k jeho účetnictví ani dispoziční právo k Baštovu účtu.** Ani tento záznam automaticky nepropojuje všechny stejnojmenné osoby a účty z ostatních částí šanonu. Částka 200 Kč nevyjadřuje celkovou pomoc Petra Bašty.
+
+**V dostupných podkladech není doloženo, jak se případné prostředky e-shopu dostaly k Hylákové.** Idealistův výklad původu peněz v [reakci od 3:43](https://www.youtube.com/watch?v=s3v2gQLzj2Q&t=223) je třeba odlišit od doložené návaznosti na konkrétní prodeje. Zachycení konečného převodu samo takovou návaznost neposkytuje. Nevíme, zda šlo o vlastní dar, svěřené podnikatelské prostředky, nebo kombinaci zdrojů.
+
+Pokud měly peníze pocházet z podnikání Petra Bašty, potřebujeme vysvětlit a doložit:
+
+- Z jakých prodejů, za jaké období a jakým výpočtem vzniklo právě 15 000 Kč?
+- Jakým způsobem se prostředky dostaly k Hylákové a kdo jí je případně svěřil? Jaká dohoda nebo pověření upravovaly její roli?
+- Kdo schválil odeslání daru a jak byly případné předání prostředků a konečná platba zaznamenány v účetnictví nebo daňové evidenci provozovatele?
+- Jednala při převodu za provozovatele, nebo poskytovala vlastní dar? Pokud pracovala s neveřejnými účetními údaji, na základě jakého pověření a v jakém rozsahu?
+
+K ověření by pomohly navazující doklady s odstraněnými soukromými údaji. Chybějící doložení není důkazem, že žádné pověření neexistovalo nebo že převod byl neoprávněný. Bez evidence konkrétního oslovení netvrdíme, že Hyláková nebo provozovatel odmítli vysvětlení.
+
+## Údaj „Bez zaměstnanců“ u provozovatele e-shopu
+
+Snímek ARES/RES pro **Petra Baštu, IČO 74284215**, uvádí kategorii počtu pracovníků **„Bez zaměstnanců“**, aktualizaci databáze **27. listopadu 2026** a poslední změnu údajů subjektu **7. října 2025**. Jde o stejné IČO, jaké uvádějí archivní podmínky e-shopu. [Výběr polí oficiální odpovědi ARES/RES ověřené 27. listopadu 2026 a původ slovního označení](../P%C5%99%C3%ADpad%20Eshop%20vladenagang.cz/prilohy/ares-res-74284215.json) jsou uložené v Šanonu VI. Tato aktualizace přebírá tehdy ověřený podklad; nepředstavuje nové načtení registru k 28. listopadu.
+
+**Statistický údaj sám neprokazuje, že Hyláková nebyla zaměstnankyní k datu březnové platby.** Data aktualizace neurčují dobu platnosti jednotlivých polí. Údaj také neověřuje existenci ani rozsah jiné dohody či pověření. Zářijové podmínky popisující externí balení objednávek nevysvětlují její březnovou roli při převodu peněz. Zaměstnání, expedici, přístup k účetním údajům a oprávnění k nakládání s penězi proto posuzujeme odděleně.
 
 ## Nové živnostenské oprávnění stejnojmenné osoby
 
@@ -91,6 +116,7 @@ K posouzení použití na knize a merchi je potřeba porovnat konkrétní reprod
 
 - Jak jsou přímo propojeny autorka knihy, komunitní účet, spolupracovnice ve videích a historický autorský údaj?
 - Jaký byl skutečný podíl jednotlivých lidí na přípravě a publikaci konkrétních článků?
+- Jaký byl původ platby 15 000 Kč vedené pod jménem Veroniky Hylákové a jaká byla její případná role při převodu prostředků e-shopu?
 - Patří IČO 00967637 téže osobě, nebo jde o jmenovkyni?
 - Kdo vytvořil používanou výtvarnou podobu Karla a jak byl upraven její další způsob užití?
 
