@@ -25,6 +25,8 @@ Web publikuje GitHub Pages z kořene větve `main`. Úvodní stránky případů
 
 ## Vydřin archiv
 
+[Šablona nového šanonu a redakční pravidla](templates/README.md) vycházejí ze struktury šanonu Red Face. Šablony se na web nepublikují.
+
 Společný vzhled se spravuje v `assets/archive.css`, `_layouts/default.html` a `_includes/entrance.html` obou repozitářů. Obsah šanonů zůstává v Markdownu. [Kam nahrát vizuál Vydry](docs/vizual-vydry.md).
 
 Kontrola PR sestaví Jekyll, prověří místní odkazy a nabídne sestavený web jako artefakt `vydrin-archiv-preview`. Publikování na GitHub Pages nadále probíhá z větve `main`.

@@ -6,6 +6,7 @@ baseurl: "/Sanony"
 repository_url: "https://github.com/oddeleniklidu/Sanony"
 markdown: kramdown
 exclude:
+  - templates
   - README.md
   - docs
   - scripts
